@@ -182,6 +182,15 @@ RevampAutoTrials = {
             Golden = {},
             SkillTree = {},
             Maps = {"Lay By"},
+             Modifiers = {
+                HiddenEnemies = true, 
+                Glass = true, 
+                Fog = true, 
+                Limitation = true, 
+                Committed = true, 
+                Quarantine = true, 
+                ExplodingEnemies = true
+            },
             Scripts = {
                 ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/WinStrat/MoltenLayby.lua",
             },
@@ -191,7 +200,16 @@ RevampAutoTrials = {
             Towers = {"Gatling Gun", "Trapper", "Medic", "DJ Booth", "Mercenary Base"},
             Golden = {},
             SkillTree = {},
-            Maps = {"Lay By", "Simplicity"},
+            Maps = {"Lay By"},
+             Modifiers = {
+                HiddenEnemies = true, 
+                Glass = true, 
+                Fog = true, 
+                Limitation = true, 
+                Committed = true, 
+                Quarantine = true, 
+                ExplodingEnemies = true
+            },
             Scripts = {
                 ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/WinStrat/FallenLayby.lua",
             },

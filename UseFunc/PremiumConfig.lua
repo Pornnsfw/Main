@@ -321,6 +321,15 @@ RevampAutoTrials = {
             Golden = {},
             SkillTree = {},
             Maps = {"Lay By"},
+			Modifiers = {
+                HiddenEnemies = true, 
+                Glass = true, 
+                Fog = true, 
+                Limitation = true, 
+                Committed = true, 
+                Quarantine = true, 
+                ExplodingEnemies = true
+            },
             Towers = {
                 ["Scout"] = {"Gatling Gun", "Trapper", "Hacker"},
                 ["Shotgunner"] = {"Gatling Gun", "Trapper", "Hacker"},

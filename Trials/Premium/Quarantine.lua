@@ -1,4 +1,6 @@
-
+local Globals = getgenv()
+Globals.AutoGatling = true
+Globals.AutoMercenary = true
 TDS:Mode("Trial")
 
 TDS:Place("Militant", 17.750417709350586, 26.394407272338867, -156.91810607910156, true)
@@ -59,7 +61,7 @@ TDS:Upgrade(6)
 TDS:Upgrade(5)
 TDS:Upgrade(5)
 TDS:Upgrade(5)
-
+Globals.AutoMedic = true
 -- [ Wave 33 ] --
 TDS:Place("Mercenary Base", 62.05501937866211, 29.58336639404297, -151.96453857421875, true)
 TDS:Upgrade(9)

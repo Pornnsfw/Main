@@ -1,6 +1,6 @@
-local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/auto-strat/refs/heads/main/Library.lua"))()
-
-TDS:Loadout("Trapper", "Gatling Gun", "Medic", "Mercenary Base", "Militant")
+local Globals = getgenv()
+Globals.AutoGatling = true
+Globals.AutoMercenary = true
 TDS:Mode("Trial")
 
 TDS:Place("Trapper", -6.890721321105957, 0.9299085736274719, 33.54568099975586)
@@ -78,6 +78,7 @@ TDS:Upgrade(9)
 TDS:Upgrade(9)
 TDS:Upgrade(9)
 TDS:Upgrade(9)
+Globals.AutoMedic = true
 TDS:SetOption(9, "Unit 1", "Riot Guard")
 TDS:SetOption(9, "Unit 2", "Riot Guard")
 TDS:SetOption(9, "Unit 3", "Riot Guard")

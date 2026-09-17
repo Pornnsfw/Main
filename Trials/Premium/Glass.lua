@@ -170,3 +170,6 @@ TDS:Upgrade(16)
 TDS:WaitForWave(40)
 TDS:Upgrade(16, 2)
 TDS:Upgrade(17, 2)
+
+TDS:Ability(17, "Hologram Tower", {towerPosition = Vector3.new(-28.280120849609375, 20.0543718338012695, -0.8959217071533203), towerToClone = 4}, true)
+TDS:Ability(16, "Hologram Tower", {towerPosition = Vector3.new(-28.280120849609375, 20.0543718338012695, -0.8959217071533203), towerToClone = 4}, true)

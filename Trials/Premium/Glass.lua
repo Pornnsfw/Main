@@ -80,7 +80,6 @@ TDS:SetOption(9, "Unit 1", "Riot Guard")
 TDS:SetOption(9, "Unit 3", "Riot Guard")
 TDS:SetOption(9, "Unit 2", "Riot Guard")
 TDS:Upgrade(9)
-TDS:MedicSelect(5, 6)
 
 -- [ Wave 31 ] --
 TDS:Place("Mercenary Base", 16.5142879486084, -0.6936412453651428, 18.557025909423828, true)

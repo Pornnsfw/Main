@@ -1,3 +1,6 @@
+local Globals = getgenv()
+Globals.AutoGatling = true
+Globals.AutoMercenary = true
 
 TDS:Place("Trapper", 2.787752151489258, 243, 207.21592712402344, true)
 TDS:Ready()
@@ -58,6 +61,7 @@ TDS:Upgrade(8)
 
 -- [ Wave 23 ] --
 TDS:Upgrade(8)
+Globals.AutoMedic = true
 TDS:SetOption(8, "Unit 1", "Riot Guard")
 TDS:SetOption(8, "Unit 2", "Riot Guard")
 TDS:SetOption(8, "Unit 3", "Riot Guard")
@@ -170,4 +174,4 @@ TDS:Upgrade(16)
 TDS:Upgrade(16, 2)
 
 -- [ Wave 39 ] --
-TDS:Ability(16, "Hologram Tower", {towerPosition = Vector3.new(-3.2649013996124268, 263, 156.18722534179688), towerToClone = 3}, true)
+TDS:Ability(16, "Hologram Tower", {towerPosition = Vector3.new(2.6769356727600098, 263, 161.93191528320312), towerToClone = 3}, true)

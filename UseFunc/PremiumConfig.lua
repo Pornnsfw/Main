@@ -32,12 +32,14 @@ RevampAutoTrials = {
     ["Quarantine"] = {
         Level = 175,
         Towers = {
-            ["Tower 1"] = {"Hacker", "Gatling Gun", "Militant", "Mercenary Base", "DJ Booth"}
+            ["Tower 1"] = {"Trapper", "Gatling Gun", "Militant", "Mercenary Base", "Medic"},
+			["Tower 2"] = {"Hacker", "Gatling Gun", "Militant", "Mercenary Base", "Medic"}
         },
         Golden = {},
         SkillTree = {},
         scripts = {
-            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/PremiumTrials/Quarantine.lua"
+            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Quarantine.lua",
+			["Tower 2"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Premium/Quarantine.lua"
         }
     },
     ["Fog"] = {

@@ -175,27 +175,4 @@ RevampAutoTrials = {
     },
 }
 
- allTrialOptions = {
-        "Exploding Enemies",
-        "Fog",
-        "Quarantine",
-        "Speedy Enemies",
-        "Glass",
-        "Limitation",
-        "Flying Enemies",
-        "Jailed",
-        "Inflation",
-        "Committed",
-        "Hidden Enemies",
-        "Hidden",
-        "Broke",
-        "Healthy Enemies",
-    },
-
-    fallbackModesList = {
-        "Molten",
-        "Fallen",
-    },
-
-  
 }

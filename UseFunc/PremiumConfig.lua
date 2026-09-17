@@ -173,6 +173,31 @@ RevampAutoTrials = {
             ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/PremiumTrials/Healthy.lua"
         }
     },
-}
+},
+    
+    RevampedFallbackConfigs = {
+        ["Molten"] = {
+            Level = 175,
+            Towers = {"Gatling Gun", "Trapper", "Medic", "DJ Booth", "Mercenary Base"},
+            Golden = {},
+            SkillTree = {},
+            Maps = {"Lay By", "Simplicity"},
+            Scripts = {
+                ["Lay By"] = "https://raw.githubusercontent.com/AmonguszzZ/ModdedAether/refs/heads/main/Strats/Mode.lua",
+                ["Simplicity"] = "https://raw.githubusercontent.com/AmonguszzZ/ModdedAether/refs/heads/main/Strats/Mode.lua",
+            },
+        },
+        ["Fallen"] = {
+            Level = 175,
+            Towers = {"Gatling Gun", "Trapper", "Medic", "DJ Booth", "Mercenary Base"},
+            Golden = {},
+            SkillTree = {},
+            Maps = {"Lay By", "Simplicity"},
+            Scripts = {
+                ["Lay By"] = "https://raw.githubusercontent.com/AmonguszzZ/ModdedAether/refs/heads/main/Strats/Mode.lua",
+                ["Simplicity"] = "https://raw.githubusercontent.com/AmonguszzZ/ModdedAether/refs/heads/main/Strats/Mode.lua",
+            },
+        }
+    },
 
 }

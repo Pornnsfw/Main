@@ -216,4 +216,67 @@ RevampAutoTrials = {
         }
     },
 
+    AutoCurrency = {
+        Coins = {
+            Lose = {
+                Level = 15,
+                Mode = "Molten",
+                Towers = {"Assassin", "Soldier"},
+                Golden = {},
+                SkillTree = {},
+                Maps = {"Simplicity", "Winter Abyss"},
+                Scripts = {
+                    ["Simplicity"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/LoseStrat%20/SimplicityLose.lua",
+					["Winter Abyss"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/LoseStrat%20/WinterAbyssLose.lua",
+                },
+            },
+            Win = {
+                Level = 175,
+                Mode = "Fallen",
+                Towers = {"Gatling Gun", "Trapper", "Medic", "Mercenary Base", "DJ Booth"},
+                Golden = {},
+                SkillTree = {},
+                Maps = {"Lay By", "Simplicity"},
+                Modifiers = {
+                HiddenEnemies = true, 
+                Glass = true, 
+                Fog = true, 
+                Limitation = true, 
+                Committed = true, 
+                Quarantine = true, 
+                ExplodingEnemies = true
+            },
+                Scripts = {
+                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/WinStrat/FallenLayby.lua",
+                    ["Simplicity"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/WinStrat/FallenLayby.lua",
+                },
+            },
+        },
+        Gems = {
+            Lose = {
+                Level = 50,
+                Mode = "hardcore",
+                Towers = {"Farm", "Boomerang", "Crook Boss"},
+                Golden = {},
+                SkillTree = {},
+                Maps = {"Wretched Front"},
+                Scripts = {
+                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/LoseStrat%20/%5BGems%5DLose.lua",
+                },
+            },
+            Win = {
+                Level = 175,
+                Mode = "hardcore",
+                Towers = {"Gatling Gun", "Pyromancer", "Medic", "Mercenary Base", "Hacker"},
+                Golden = {"Pyromancer"},
+                SkillTree = {},
+                Maps = {"Wretched Front"},
+                Scripts = {
+                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/WinStrat/FallenLayby.lua",
+                },
+            },
+        },
+    },
+
+
 }

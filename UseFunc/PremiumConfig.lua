@@ -182,13 +182,13 @@ RevampAutoTrials = {
     RevampedFallbackConfigs = {
         ["Molten"] = {
             Level = 175,
-            Towers = {"Gatling Gun", "Trapper", "Medic", "DJ Booth", "Mercenary Base"},
+            Towers = {"Gatling Gun", "Trapper", "Medic", "", "Mercenary Base"},
             Golden = {},
             SkillTree = {},
             Maps = {"Lay By"},
              Modifiers = {
                 HiddenEnemies = true, 
-                Glass = true, 
+                SpeedyEnemies = true, 
                 Fog = true, 
                 Limitation = true, 
                 Committed = true, 
@@ -196,18 +196,18 @@ RevampAutoTrials = {
                 ExplodingEnemies = true
             },
             Scripts = {
-                ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/WinStrat/MoltenLayby.lua",
+                ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/WinStrat/MoltenLayby.lua",
             },
         },
         ["Fallen"] = {
             Level = 175,
-            Towers = {"Gatling Gun", "Trapper", "Medic", "DJ Booth", "Mercenary Base"},
+            Towers = {"Gatling Gun", "Trapper", "Medic", "", "Mercenary Base"},
             Golden = {},
             SkillTree = {},
             Maps = {"Lay By"},
              Modifiers = {
                 HiddenEnemies = true, 
-                Glass = true, 
+                SpeedyEnemies = true, 
                 Fog = true, 
                 Limitation = true, 
                 Committed = true, 
@@ -215,7 +215,7 @@ RevampAutoTrials = {
                 ExplodingEnemies = true
             },
             Scripts = {
-                ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/WinStrat/FallenLayby.lua",
+                ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/WinStrat/FallenLayby.lua",
             },
         }
     },
@@ -237,13 +237,13 @@ RevampAutoTrials = {
             Win = {
                 Level = 175,
                 Mode = "Fallen",
-                Towers = {"Gatling Gun", "Trapper", "Medic", "Mercenary Base", "DJ Booth"},
+                Towers = {"Gatling Gun", "Trapper", "Medic", "Mercenary Base", "Hacker"},
                 Golden = {},
                 SkillTree = {},
-                Maps = {"Lay By", "Simplicity"},
+                Maps = {"Lay By"},
                 Modifiers = {
                 HiddenEnemies = true, 
-                Glass = true, 
+                SpeedyEnemies = true, 
                 Fog = true, 
                 Limitation = true, 
                 Committed = true, 
@@ -251,8 +251,7 @@ RevampAutoTrials = {
                 ExplodingEnemies = true
             },
                 Scripts = {
-                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/WinStrat/FallenLayby.lua",
-                    ["Simplicity"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/WinStrat/FallenLayby.lua",
+                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/WinStrat/FallenLayby.lua",
                 },
             },
         },
@@ -323,7 +322,7 @@ RevampAutoTrials = {
             Maps = {"Lay By"},
 			Modifiers = {
                 HiddenEnemies = true, 
-                Glass = true, 
+                SpeedyEnemies = true, 
                 Fog = true, 
                 Limitation = true, 
                 Committed = true, 

@@ -181,10 +181,9 @@ RevampAutoTrials = {
             Towers = {"Gatling Gun", "Trapper", "Medic", "DJ Booth", "Mercenary Base"},
             Golden = {},
             SkillTree = {},
-            Maps = {"Lay By", "Simplicity"},
+            Maps = {"Lay By"},
             Scripts = {
-                ["Lay By"] = "https://raw.githubusercontent.com/AmonguszzZ/ModdedAether/refs/heads/main/Strats/Mode.lua",
-                ["Simplicity"] = "https://raw.githubusercontent.com/AmonguszzZ/ModdedAether/refs/heads/main/Strats/Mode.lua",
+                ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/WinStrat/MoltenLayby.lua",
             },
         },
         ["Fallen"] = {
@@ -194,8 +193,7 @@ RevampAutoTrials = {
             SkillTree = {},
             Maps = {"Lay By", "Simplicity"},
             Scripts = {
-                ["Lay By"] = "https://raw.githubusercontent.com/AmonguszzZ/ModdedAether/refs/heads/main/Strats/Mode.lua",
-                ["Simplicity"] = "https://raw.githubusercontent.com/AmonguszzZ/ModdedAether/refs/heads/main/Strats/Mode.lua",
+                ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/WinStrat/FallenLayby.lua",
             },
         }
     },

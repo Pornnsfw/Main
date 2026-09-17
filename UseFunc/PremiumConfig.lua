@@ -45,12 +45,14 @@ RevampAutoTrials = {
     ["Fog"] = {
         Level = 175,
         Towers = {
-            ["Tower 1"] = {"Trapper", "Hacker", "Gatling Gun", "Mercenary Base", "DJ Booth"}
+            ["Tower 1"] = {"Trapper", "Militant", "Gatling Gun", "Mercenary Base", "Medic"},
+			["Tower 2"] = {"Trapper", "Hacker", "Gatling Gun", "Mercenary Base", "Medic"}
         },
         Golden = {},
         SkillTree = {},
         scripts = {
-            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/PremiumTrials/Fog.lua"
+            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Fog.lua",
+			["Tower 2"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Premium/Fog.lua"
         }
     },
     ["Limitation"] = {

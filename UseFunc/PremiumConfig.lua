@@ -216,7 +216,7 @@ RevampAutoTrials = {
         }
     },
 
-    AutoCurrency = {
+     CrateConfigs = {
         Coins = {
             Lose = {
                 Level = 15,

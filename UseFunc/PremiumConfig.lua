@@ -197,7 +197,7 @@ RevampAutoTrials = {
                 ExplodingEnemies = true
             },
             Scripts = {
-                ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/WinStrat/MoltenLayby.lua",
+                ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/WinStrat/MoltenLayby.lua", -- done
             },
         },
         ["Fallen"] = {
@@ -216,7 +216,7 @@ RevampAutoTrials = {
                 ExplodingEnemies = true
             },
             Scripts = {
-                ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/WinStrat/FallenLayby.lua",
+                ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/WinStrat/FallenLayby.lua", --done
             },
         }
     },
@@ -231,8 +231,8 @@ RevampAutoTrials = {
                 SkillTree = {},
                 Maps = {"Simplicity", "Winter Abyss"},
                 Scripts = {
-                    ["Simplicity"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/Simplicity.lua",
-					["Winter Abyss"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/WinterAbyss.lua",
+                    ["Simplicity"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/Simplicity.lua", -- done
+					["Winter Abyss"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/WinterAbyss.lua", -- done
                 },
             },
             Win = {
@@ -252,7 +252,7 @@ RevampAutoTrials = {
                 ExplodingEnemies = true
             },
                 Scripts = {
-                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/WinStrat/FallenLayby.lua",
+                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/WinStrat/FallenLayby.lua", -- done
                 },
             },
         },
@@ -265,7 +265,7 @@ RevampAutoTrials = {
                 SkillTree = {},
                 Maps = {"Wretched Front"},
                 Scripts = {
-                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/WretchedForest.lua",
+                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/WretchedForest.lua", -- done
                 },
             },
             Win = {
@@ -276,7 +276,7 @@ RevampAutoTrials = {
                 SkillTree = {},
                 Maps = {"Wretched Front"},
                 Scripts = {
-                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/WretchedForest.lua",
+                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/WretchedForest.lua", -- done
                 },
             },
         },

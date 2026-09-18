@@ -154,8 +154,8 @@ RevampAutoTrials = {
         Golden = {},
         SkillTree = {},
         scripts = {
-            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Broke.lua",
-            ["Tower 2"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Premium/Broke.lua"
+            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Broke.lua", -- done
+            ["Tower 2"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Premium/Broke.lua" -- done
         }
     },
     ["Healthy Enemies"] = {
@@ -175,7 +175,7 @@ RevampAutoTrials = {
             ["Resourcefulness"] = 10,
         },
         scripts = {
-            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/PremiumTrials/Healthy.lua"
+            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Healthy.lua" -- done
         }
     },
 },

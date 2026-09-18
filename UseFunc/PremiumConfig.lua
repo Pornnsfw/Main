@@ -131,7 +131,7 @@ RevampAutoTrials = {
             ["Extreme Conditioning"] = 25,
         },
         scripts = {
-            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/PremiumTrials/Committed.lua"
+            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Committed.lua" -- done
         }
     },
     ["Hidden Enemies"] = {

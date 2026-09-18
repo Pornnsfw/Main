@@ -106,7 +106,7 @@ RevampAutoTrials = {
         Golden = {},
         SkillTree = {},
         scripts = {
-            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/PremiumTrials/Inflation.lua"
+            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Inflation.lua" -- done
         }
     },
     ["Committed"] = {

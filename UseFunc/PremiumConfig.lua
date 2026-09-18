@@ -300,18 +300,18 @@ RevampAutoTrials = {
             },
             
             -- Dynamic scripts based on the active tower you are farming
-            Scripts = {
+          Scripts = {
                 ["Scout"] = {
-                    ["Simplicity"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/Evo/Lose/OperatorLose.lua",
+                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Evo/Lose/Operator.lua",
                 },
                 ["Shotgunner"] = {
-                    ["Simplicity"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/Evo/Lose/EnforcerLose.lua",
+                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Evo/Lose/Enforcer.lua",
                 },
                 ["Crook Boss"] = {
-                    ["Simplicity"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/Evo/Lose/KingpinLose.lua",
+                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Evo/Lose/Kingpin.lua",
                 },
                 ["Minigunner"] = {
-                    ["Simplicity"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/Evo/Lose/JuggernautLose.lua",
+                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Evo/Lose/Juggernaut.lua",
                 }
             }
         },
@@ -338,16 +338,16 @@ RevampAutoTrials = {
             },
             Scripts = {
                 ["Scout"] = {
-                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/Evo/Win/OperatorLayby.lua",
+                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Evo/Win/Operator.lua",
                 },
                 ["Shotgunner"] = {
-                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/Evo/Win/EnforcerLayby.lua",
+                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Evo/Win/Enforcer.lua",
                 },
                 ["Crook Boss"] = {
-                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/Evo/Win/KingpinLayby.lua",
+                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Evo/Win/Kingpin.lua",
                 },
                 ["Minigunner"] = {
-                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/Evo/Win/JuggernautLayby.lua",
+                    ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Evo/Win/Juggernaut.lua",
                 }
             }
         },
@@ -367,16 +367,16 @@ RevampAutoTrials = {
             },
             Scripts = {
                 ["Scout"] = {
-                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/LoseStrat%20/%5BGems%5DLose.lua",
+                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/WretchedForest.lua",
                 },
                 ["Shotgunner"] = {
-                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/LoseStrat%20/%5BGems%5DLose.lua",
+                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/WretchedForest.lua",
                 },
                 ["Crook Boss"] = {
-                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/LoseStrat%20/%5BGems%5DLose.lua",
+                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/WretchedForest.lua",
                 },
                 ["Minigunner"] = {
-                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/LoseStrat%20/%5BGems%5DLose.lua",
+                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/WretchedForest.lua",
                 }
             }
         }

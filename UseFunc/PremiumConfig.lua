@@ -6,14 +6,11 @@ RevampAutoTrials = {
         Level = 175,
         Towers = {
             ["Tower 1"] = {"Tesla", "Gatling Gun", "Medic", "Mercenary Base", "Trapper"},
-            -- Example placeholder for Premium:
-            -- ["Tower 2"] = {"Tesla", "Gatling Gun", "Medic", "Brawler", "Trapper"}, 
         },
         Golden = {},
         SkillTree = {},
         scripts = {
-            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/PremiumTrials/Speedy.lua",
-            -- ["Tower 2"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/PremiumTrials/SpeedyAlt.lua"
+            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Speedy.lua", -- done
         }
     },
     ["Glass"] = {
@@ -25,8 +22,8 @@ RevampAutoTrials = {
         Golden = {},
         SkillTree = {},
         scripts = {
-            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Glass.lua",
-			["Tower 2"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Premium/Glass.lua"
+            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Glass.lua", --done
+			["Tower 2"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Premium/Glass.lua" -- done
         }
     },
     ["Quarantine"] = {
@@ -38,8 +35,8 @@ RevampAutoTrials = {
         Golden = {},
         SkillTree = {},
         scripts = {
-            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Quarantine.lua",
-			["Tower 2"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Premium/Quarantine.lua"
+            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Quarantine.lua", -- done
+			["Tower 2"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Premium/Quarantine.lua" -- done
         }
     },
     ["Fog"] = {
@@ -51,8 +48,8 @@ RevampAutoTrials = {
         Golden = {},
         SkillTree = {},
         scripts = {
-            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Fog.lua",
-			["Tower 2"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Premium/Fog.lua"
+            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Fog.lua", --done
+			["Tower 2"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Premium/Fog.lua" -- done
         }
     },
     ["Limitation"] = {
@@ -80,12 +77,12 @@ RevampAutoTrials = {
     ["Jailed"] = {
         Level = 175,
         Towers = {
-            ["Tower 1"] = {"Scout", "Gatling Gun", "Militant", "Mercenary Base", "Paintballer", "Assassin", "DJ Booth", "Crook Boss"}
+            ["Tower 1"] = {"Assassin", "Scout", "Paintballer", "DJ Booth", "Gatling Gun"}
         },
         Golden = {},
         SkillTree = {},
         scripts = {
-            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/PremiumTrials/Jailed.lua"
+            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Jailed.lua" -- done
         }
     },
     ["Exploding Enemies"] = {

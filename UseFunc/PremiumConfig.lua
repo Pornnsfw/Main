@@ -88,12 +88,14 @@ RevampAutoTrials = {
     ["Exploding Enemies"] = {
         Level = 175,
         Towers = {
-            ["Tower 1"] = {"Militant", "Gatling Gun", "Medic", "Mercenary Base", "DJ Booth"}
+            ["Tower 1"] = {"Militant", "Gatling Gun", "Medic", "Mercenary Base", "Trapper"},
+			["Tower 2"] = {"Hacker", "Gatling Gun", "Medic", "Mercenary Base", "Trapper"}
         },
         Golden = {},
         SkillTree = {},
         scripts = {
-            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/HUB/refs/heads/main/PremiumTrials/Exploading.lua"
+            ["Tower 1"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Free/Exploading.lua",
+			["Tower 2"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/Premium/Exploading.lua"
         }
     },
     ["Inflation"] = {

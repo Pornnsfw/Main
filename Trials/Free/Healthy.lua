@@ -1,4 +1,5 @@
 
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/avtryxz/autogutlin/refs/heads/main/autogutlin.lua"))()
 TDS:Mode("Trial")
 
 TDS:Place("Ace Pilot", 19.152936935424805, 0.7499987483024597, 3.194467544555664)

@@ -1,4 +1,5 @@
 
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/avtryxz/autogutlin/refs/heads/main/autogutlin.lua"))()
 TDS:Mode("Trial")
 
 TDS:Place("Trapper", -15.369919776916504, 0.9999645352363586, -2.8799638748168945)

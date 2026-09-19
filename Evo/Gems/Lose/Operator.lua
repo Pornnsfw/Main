@@ -1,6 +1,7 @@
+local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/API.lua"))()
+
 local Globals = getgenv()
 Globals.AutoSkip = true
-
 TDS:Loadout("Farm", "Boomerang", "Crook Boss", "Scout", "EvolvedOperator")
 TDS:RemoveIndex()
 TDS:Ready()

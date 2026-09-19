@@ -1,6 +1,8 @@
 local Globals = getgenv()
 Globals.AutoGatling = true
 Globals.AutoMercenary = true
+
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/avtryxz/autogutlin/refs/heads/main/autogutlin.lua"))()
 TDS:Mode("Trial")
 
 TDS:Place("Militant", 17.750417709350586, 26.394407272338867, -156.91810607910156, true)

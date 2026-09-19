@@ -1,6 +1,7 @@
+local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/API.lua"))()
 local Globals = getgenv()
 Globals.AutoGatling = true
-Globals.AutoMercenary = true
+Globals.AutoRejoin = true
 
 TDS:Loadout("Trapper", "Gatling Gun", "Medic", "Mercenary Base", "Hacker")
 TDS:Place("Trapper", 2.810445785522461, 243, 207.17857360839844, true)

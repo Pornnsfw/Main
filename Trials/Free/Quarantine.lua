@@ -1,3 +1,5 @@
+
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/avtryxz/autogutlin/refs/heads/main/autogutlin.lua"))()
 local Globals = getgenv()
 Globals.AutoGatling = true
 Globals.AutoMercenary = true

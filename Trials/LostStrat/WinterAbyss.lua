@@ -1,3 +1,7 @@
+local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/API.lua"))()
+local Globals = getgenv()
+Globals.AutoSkip = true
+
 TDS:RemoveIndex()
 TDS:Place("Soldier", 0.700467586517334, 20.9709153175354004450544714927673, 45.36052703857422)
 TDS:Ready()

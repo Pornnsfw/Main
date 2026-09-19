@@ -367,16 +367,16 @@ RevampAutoTrials = {
             },
             Scripts = {
                 ["Scout"] = {
-                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/WretchedForest.lua",
+                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Evo/Gems/Lose/Operator.lua",
                 },
                 ["Shotgunner"] = {
-                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/WretchedForest.lua",
+                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Evo/Gems/Lose/Enforcer.lua",
                 },
                 ["Crook Boss"] = {
-                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/WretchedForest.lua",
+                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Evo/Gems/Lose/Kingpin.lua",
                 },
                 ["Minigunner"] = {
-                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Trials/LostStrat/WretchedForest.lua",
+                    ["Wretched Front"] = "https://raw.githubusercontent.com/Pornnsfw/Main/refs/heads/main/Evo/Gems/Lose/Juggernaut.lua",
                 }
             }
         }

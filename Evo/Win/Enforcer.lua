@@ -2,6 +2,7 @@ local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pornnsfw/
 local Globals = getgenv()
 Globals.AutoGatling = true
 Globals.AutoRejoin = true
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/avtryxz/autogutlin/refs/heads/main/autogutlin.lua"))()
 
 TDS:Loadout("Trapper", "Gatling Gun", "Hacker", "Shotgunner", "EvolvedEnforcer")
 TDS:Place("Trapper", 2.6528778076171875, 243, 206.70054626464844, true)
